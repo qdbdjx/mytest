@@ -46,3 +46,7 @@ string facename = "Tahoma"
 string text = "run"
 end type
 
+event clicked;messagebox("aaa","bbb")
+
+end event
+
