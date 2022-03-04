@@ -35,7 +35,7 @@ type cb_1 from commandbutton within w_main
 integer x = 814
 integer y = 148
 integer width = 457
-integer height = 132
+integer height = 128
 integer taborder = 10
 integer textsize = -12
 integer weight = 400
@@ -46,7 +46,7 @@ string facename = "Tahoma"
 string text = "run"
 end type
 
-event clicked;messagebox("aaa","bbb")
+event clicked;messagebox("aaa","bbb-ccc-ddd")
 
 end event
 
